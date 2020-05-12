@@ -1,0 +1,32 @@
+.tab{
+    width: 100%;
+    margin-top: 64px;
+}
+
+.btn{
+    margin-bottom: 20px;
+}
+
+.list{
+    width: 100%;
+}
+
+.tab thead{
+    color: #fff;
+    background-color: #353535;
+}
+
+.tab th,
+.tab td{
+    border: 1px solid #888888;
+}
+
+.delete{
+    color: #1a90ff;
+    cursor: pointer;
+}
+
+/* 弹窗 */
+.modal-item{
+    margin: 10px 0;
+}

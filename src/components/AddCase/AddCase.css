@@ -1,0 +1,35 @@
+.urllist{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 5px;
+    transition: all .3s ease;
+}
+
+.urllist-icon{
+    margin-left: 3px;
+    margin-right: 10px;
+    color: rgba(0, 0, 0, .45);
+}
+
+
+.urllist-title{
+    flex-grow: 1;
+}
+
+.urllist-delete{
+    opacity: 0;
+    margin-right: 5px;
+    transition: all .3s ease;
+}
+
+
+.urllist:hover{
+    background-color: #e6f7ff;
+    transition: all .3s ease;
+}
+
+.urllist:hover .urllist-delete{
+    opacity: 1;
+    transition: all .3s ease;
+}

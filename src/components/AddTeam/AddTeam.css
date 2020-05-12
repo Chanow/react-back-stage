@@ -1,0 +1,32 @@
+.addteam{
+    width: 90%;
+    margin: 20px auto;
+}
+
+.add-item{
+    margin: 20px 0;
+}
+
+.add-item-input{
+    width: 30%;
+}
+
+.add-item-text{
+    font-size: 16px;
+    font-weight: 500;
+    color: #353535;
+}
+
+.add-btn{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.top-cancel{
+    margin-bottom: 20px;
+}
+
+.add-btn-cancel{
+    margin-right: 20px;
+}

@@ -1,0 +1,27 @@
+.case-cover{
+    width: 60px;
+    height: auto;
+}
+
+.edit{
+    margin-left: 10px;
+    color: #1a90ff;
+    cursor: pointer;
+}
+
+.delete-btn{
+    margin-right: 20px;
+}
+
+.page{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 90%;
+    margin: 20px auto;
+}
+
+.count{
+    font-size: 14px;
+    color: #888888;
+}

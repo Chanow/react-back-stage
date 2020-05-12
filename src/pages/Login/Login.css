@@ -1,0 +1,27 @@
+.login{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url(http://pic1.win4000.com/wallpaper/2/51555fecbefae.jpg);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+
+.login-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 400px;
+    margin: 0 auto;
+}
+
+.title{
+    font-size: 20px;
+    color: #fff;
+}
